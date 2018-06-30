@@ -1,0 +1,146 @@
+// Colors to be used 
+// dark grey #1e1e24
+// red #92140C
+// white #fff8f0
+
+html {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+header, footer {
+    background-color: #1e1e24;
+    color: white;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.name {
+    font-size: 3em;
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+}
+
+.aboutMe {
+    font-size: 1em;
+    text-align: center;
+    padding: 20px;
+    margin: 0px;
+}
+
+.box {
+    padding: 15px;
+    margin: 0px;
+}
+
+.box-title {
+    font-size: 1.75em;
+    padding: 15px;
+    margin: 0x;
+    color: #1e1e24;
+    font-weight: bold;
+}
+
+.job {
+    padding: 20px;
+    margin: 0px;
+}
+
+.company {
+    font-size: 1.5em;
+    padding: 5px;
+    margin: 0px;
+    color: #92140C;
+    font-weight: bold;
+}
+
+.position {
+    font-size: 1em;
+    padding: 5px;
+    margin: 0px;
+    color: #404040;
+}
+
+.location {
+    font-size: 0.95em;
+    color: #404040;
+    padding: 5px;
+    margin: 0px;
+}
+
+.duration {
+    font-size: 0.95em;
+    padding: 5px;
+    margin: 0px;
+    color: #737373;
+    font-style: oblique;
+}
+
+.tasks {
+    font-size: 0.925em;
+    margin: 0px;
+    padding: 1px;
+    color: #404040;
+    list-style-type: none;
+}
+
+.copyright {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 950px;
+    //border: 2px solid red;
+}
+
+.sm-icon {
+    padding: 2px;
+    margin: 2px;
+}
+
+.lg-icon {
+    padding: 4px 6px;
+    margin: 0px;
+}
+
+.contact-box
+{
+    padding-top: 20px;
+    margin: 0px;
+    text-align: center;
+}
+
+.contact-item {
+    padding: 0px;
+    margin: 0px;
+    display: inline-block;
+    font-size: 1.5em;
+}
+
+.contact-item a:link {
+    color: white;
+}
+
+.contact-item a:visited {
+    color: white;
+}
+
+.contact-item a:hover {
+    color: #92140C; 
+}
+
+.imgPlaceholder {
+    max-width: 50%;
+    height: auto;
+    border-radius: 50%;
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
