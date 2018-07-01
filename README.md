@@ -1,2 +1,2 @@
 # onlineResumeV2
-This is an online resume example to demonstrate HTML, CSS, and Javascript.
+This is an online resume example version 2 to demonstrate HTML, CSS, and Javascript.
